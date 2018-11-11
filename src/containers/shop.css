@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.cartHyperLink{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+.goToCart-main{
+    text-align: right;
+    padding: 30px 100px 0 0 ;
+}
+.cartIcon{
+    height: 55px;
+}
+.cartQty{
+    font-weight: 700;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
